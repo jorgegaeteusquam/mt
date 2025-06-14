@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fvillena/mt/HEAD) [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/fvillena/mt)
 
-Curso de Minería de Texto del Programa de Magíster en Data Science de la Universidad de Chile. En este repositorio estarán disponibles todos los recursos, instrucciones y materiales del curso.
+Curso de Minería de Texto del Programa de Magíster en Data Science de la Universidad San Sebastián. En este repositorio estarán disponibles todos los recursos, instrucciones y materiales del curso.
 
 ## Clonar el repositorio
 
